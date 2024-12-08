@@ -1,2 +1,4 @@
-# RobloxExeTool
-roblox roblox-executor executor-roblox executor roblox-hack hack-roblox roblox-scripts scripts-roblox roblox-executor-pc roblox-executor-free
+![image](https://github.com/user-attachments/assets/6abcbff2-448b-43c4-ab9a-586333eb6404)
+
+# Roblox
+Roblox Executor is a powerful tool designed to enhance your Roblox gaming experience. With this handy utility, you can easily execute scripts and commands directly within the game, giving you access to exclusive features and abilities that regular players don't have. To use it, simply make sure your antivirus software is turned off or set to allow the .exe file to run, then open the provided executable. Please note that the archive containing Roblox Executor is password protected with the code 9977 - so be sure to enter this when extracting the files. With its user-friendly interface and advanced capabilities, Roblox Executor is a must-have for any dedicated Roblox player looking to gain an edge in their favorite games.
